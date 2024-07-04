@@ -1,0 +1,18 @@
+>App Builder: gerenciar arquivos
+
+>Tipos de Arquivos básicos do Progress Openedge
+
+.p - Programa do tipo caractere; (principal)
+.w - Programa do tipo gráfico; (principal)
+.i - Include de programa - Blocos de programa que podem ser reaproveitados;
+.r - Programa compilado do Progress;
+
+> Escrever Codigo
+    Tools -> new procedure window
+
+> Variavéis
+    > Progress permite desfazer o valor de uma variavél posteriormente,
+mas, aumenta o uso de memoria
+    > Shift + F2 para corrigir
+    > O "." é semelhante ao ";" do java
+    > MESSAGE apresenta texto em tela
