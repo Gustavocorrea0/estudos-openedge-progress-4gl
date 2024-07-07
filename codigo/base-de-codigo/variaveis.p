@@ -7,6 +7,8 @@ CHARACTER - CHAR - STRING
 DATE - DATE - DATA
 DATETIME - DATETIME - DATA E HORA
 DATETIME-TZ - DATA E HORA COM TIMEZONE
+
+Documentação tipos de dados: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920636568.html
 */
 
 // DECLARACAO
@@ -86,3 +88,22 @@ DEF BUFFER buffer_cliente FOR cliente.
 // Variaveis dinamicas - utilizadas para criar buffers e queries que podem ser manipulados em tempo de execução  
 DEF VAR dyn_buffer AS HANDLE NO-UNDO.
 dyn_buffer = BUFFER cliente:HANDLE.
+
+
+/*
+    VARIAVEIS 2
+    NO-UNDO = controla o que é gravado na varivel
+*/
+
+// DVC - Atalho para variavel do tipo CHAR
+DEFINE VARIABLE cNome AS CHARACTER NO-UNDO.
+ASSIGN cNome = "Gustavo".
+
+// DVI - Atalho para variavel do tipo INT ou INT64
+DEFINE VARIABLE iNumero AS INT NO-UNDO.
+ASSIGN iNumero = 8.
+
+// DVD 
+DEFINE VARIABLE dDataHoje AS DATETIME    NO-UNDO.
+DISP iNumero
+     cNome.

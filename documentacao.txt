@@ -1,0 +1,30 @@
+> Documentacao geral:
+
+https://docs.progress.com/pt-BR/bundle/openedge-microsoft-sql-dataserver-117/page/Creating-a-new-empty-OpenEdge-database.html
+
+> Sintaxe e Caracteres Especiais
+
+Sintaxe: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424919509131.html
+Caracteres Especiais: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920642988.html
+
+> Operadores
+
+EQ or = operator: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424919514353.html#rfi1424919514353
+GE or >= operator: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920507781.html#rfi1424920507781
+LE or < = operator: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920508840.html#rfi1424920508840
+LT or < operator: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920509349.html#rfi1424920509349
+NE or <> operator: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920511320.html#rfi1424920511320
+
+> Display
+
+Manipulacao: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920257320.html
+
+> Dados
+
+Tipos e Usos: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920636568.html
+
+> Procedures/Funcoes
+
+Declaracao: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920170673.html
+Como executar uma procedure: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920323961.html
+RIP Tutorial: https://riptutorial.com/progress-4gl/topic/8914/procedures

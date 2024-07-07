@@ -1,7 +1,9 @@
 /*
    IF - THEN
    Executa um bloco de codigo se a condicao for verdadeira
+   Documentacao: https://documentation.progress.com/output/ua/OpenEdge_latest/pdsoe/PLUGINS_ROOT/com.openedge.pdt.langref.help/rfi1424920642382.html
 */ 
+
 DEF VAR idade AS INT NO-UNDO.
 idade = 20.
 IF idade >= 18 THEN
